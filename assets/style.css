@@ -1,3 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
 :root {
     --brand-color-light: #60A5FA;
     --brand-color-dark: #1D4ED8;
@@ -8,7 +15,20 @@
 
 
 
-    font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
-    font-style: normal;
+    --font-family: "Archivo", sans-serif;
+    --h1: 800 24px/135% var(--font-family);
+    --h2: 800 16px/140% var(--font-family);
+    --h3: 800 14px/140% var(--font-family);
+    --span: 600 14px/145% var(--font-family);
+    --p: 400 14px/160% var(--font-family)
+}
+body {
+    color: var(--text-color-primary);
+    background-color: var(--bg-color);
+} 
+a:hover {
+    color: var(--brand-color-dark);
+}
+h1, h2, h3 {
+    font: inherit;
 }
