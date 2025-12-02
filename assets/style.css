@@ -1,0 +1,14 @@
+:root {
+    --brand-color-light: #60A5FA;
+    --brand-color-dark: #1D4ED8;
+    --bg-color:#0F172A;
+    --stroke-color:#1E293B;
+    --text-color-primary:#F1F5F5;
+    --text-folor-primary:#CBD5E1;
+
+
+
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
