@@ -107,13 +107,6 @@ Este projeto mostra que você domina não apenas técnica, mas design moderno. �
 Sinta-se livre para contribuir, melhorar e evoluir este portal futurista!
 Pull requests são sempre bem-vindos.
 
-📬 Contato
-
-Caso queira trocar uma ideia ou colaborar em projetos:
-
-📧 seu-email-aqui
-🐙 GitHub: seu-user-aqui
-💼 LinkedIn: seu-perfil-aqui
 
 ⭐ Gostou? Deixe uma estrela no repositório!
 
